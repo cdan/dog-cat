@@ -1,7 +1,5 @@
 #coding=utf-8  
-import tensorflow as tf
-
-
+import tensorflow as tf  
 # 结构
 # conv1   卷积层 1
 # pooling1_lrn  池化层 1
